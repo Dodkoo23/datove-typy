@@ -1,0 +1,3 @@
+﻿  pretypovanie.cpp
+C:\Users\domin\OneDrive\Plocha\Dátové typy\pretypovanie\pretypovanie\pretypovanie.cpp(22,17): warning C4244: =: double se převádí na float; může dojít ke ztrátě dat.
+  pretypovanie.vcxproj -> C:\Users\domin\OneDrive\Plocha\Dátové typy\pretypovanie\x64\Debug\pretypovanie.exe
